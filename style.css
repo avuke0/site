@@ -4,9 +4,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     background-image: url("b.jpg");
     background-size: cover;
-    scrollbar-width: 10px;
-    outline-style: dashed;
-
+    
 }
 h1{
     font-size: 100px;
